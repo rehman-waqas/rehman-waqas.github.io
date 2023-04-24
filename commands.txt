@@ -1,0 +1,2 @@
+first in command window --> cd C:\Users\engr_\OneDrive\Desktop\jemdoc_new
+then --> cmd --> python jemdoc.py index
