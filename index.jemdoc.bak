@@ -2,31 +2,37 @@
 # jemdoc: addcss{slideshow.css}
 == Waqas ur Rehman
 
-{{<img class="float" style="width: 100px; margin-left:-15px; margin-top: 5px;" src="images/111.jpeg"></img>}}
+{{<img class="float" style="width: 100px; margin-left:-25px; margin-top: 5px;" src="images/111.jpeg"></img>}}
 [https://ece.mst.edu/ ~~Department of Electrical and Computer Engineering] \n
 [https://www.mst.edu/ ~~Missouri University of Science and Technology] \n
 \ ~~236 Emerson Electric Co. Hall \n
 \ ~~301 W 16th Street, Rolla, MO, 65409, USA \n
 \ ~~Email: w.rehman \[at\] mst \[dot\] edu \n
-\ ~~[https://scholar.google.com/citations?user=qYAJIcgAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3 ResearchGate] | [https://publons.com/researcher/4531048/waqas-ur-rehman/ Publons]
+\ ~~[https://scholar.google.com/citations?user=zQqlakkAAAAJ&hl=en&authuser=1 Google Scholar] | [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3 ResearchGate] | [https://www.webofscience.com/wos/author/record/2317402 Web of Science]
 
 == About Me
 I am currently a Ph.D candidate at the Department of Electrical and Computer Engineering, Missouri University of Science and Technology, USA. 
 I received my B.Sc. and M.Sc degrees in Electrical Engineering from [https://web.uettaxila.edu.pk/ University of Engineering and Technology (UET) Taxila, Pakistan] respectively in 2012 and 2017. I also received 
-a second M.Sc. degree in Nuclear Engineering from [http://www.pieas.edu.pk/ Pakistan Institute of Engineering and Applied Sciences (PIEAS)] in 2015. I'm a recipient of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Paper Award/] 
+a second M.Sc. degree in Nuclear Engineering from [http://www.pieas.edu.pk/ Pakistan Institute of Engineering and Applied Sciences (PIEAS)] in 2015. \n I'm a recipient of 2022-2023 CEC Dean’s PhD Scholar Award. I'm also a recipient of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Paper Award/] 
 and the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the graduate poster competition at the IEEE PES General Meeting, USA 2021. My current research interests are optimal siting, sizing, operation and control 
 of [https://news.mst.edu/2018/10/missouri-st-researchers-win-multimillion-dollar-grant-to-build-fast-charging-stations-for-electric-cars/ Extreme Fast Charging (XFC) Stations] and Superchargers for electric vehicles. I am also interested in applying machine learning and AI methods in power and energy systems.  
 
 == News
-- \[06-16-2022\] I passed my Ph.D. Comprehensive Exam--graduation is expected in the Fall 2022. 
+- \[04-2023\] I received 2022-2023 CEC Dean’s PhD Scholar Award. I am one of the seven recipients of this award for this year.
 
-- \[04-22-2022\] I won the [https://econnection.mst.edu/2022/05/electrical-engineering-ph-d-student-wins-poster-contest/ /First Place/] with $200 cash prize in the [https://grad.mst.edu/events/graduatefellowspostersession/ 2022 Missouri S&T Graduate Poster Contest], out of 28 contestants (poster title "Multi-layered Framework for Energy Management of Extreme Fast Charging Stations for Electric Vehicles").
+- \[01-2023\] My dissertation titled "Control and Optimization of Energy Storage System in Power Distribution Systems" has been selected for the final round of Grid Edge Technologies Dissertation Prize Challenge. As a finalist, I am invited to participate in the on-site 3-Minute Challenge which will take place in the IEEE PES Grid Edge Technologies Conference and Exposition on April 11 and 12, 2023 at San Diego Convention Center. 
 
-- \[02-12-2022\] Our paper titled “Sizing battery energy storage and PV system in an extreme fast charging station considering uncertainties and battery degradation” got accepted 
+- \[01-2023\] I joined the Battery Software Group, Lucid Motors as Sr. Algorithms Engineer, ESS at the Lucid Motors Headquarters, Newark CA, USA.
+
+- \[06-2022\] I passed my Ph.D. Comprehensive Exam--graduation is expected in the Summer 2023. 
+
+- \[04-2022\] I won the [https://econnection.mst.edu/2022/05/electrical-engineering-ph-d-student-wins-poster-contest/ /First Place/] with $200 cash prize in the [https://grad.mst.edu/events/graduatefellowspostersession/ 2022 Missouri S&T Graduate Poster Contest], out of 28 contestants (poster title "Multi-layered Framework for Energy Management of Extreme Fast Charging Stations for Electric Vehicles").
+
+- \[02-2022\] Our paper titled “Sizing battery energy storage and PV system in an extreme fast charging station considering uncertainties and battery degradation” got accepted 
 in the /Applied Energy/. [https://www.sciencedirect.com/science/article/abs/pii/S030626192200201X \[Link\]] [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3/publication/358569775_Sizing_Battery_Energy_Storage_and_PV_System_in_an_Extreme_Fast_Charging_Station_Considering_Uncertainties_and_Battery_Degradation/links/62137aff4be28e145ca7299b/Sizing-Battery-Energy-Storage-and-PV-System-in-an-Extreme-Fast-Charging-Station-Considering-Uncertainties-and-Battery-Degradation.pdf \[PDF\]] 
 
-- \[01-14-2022\] I completed my internship as Commercial Energy Design intern at [https://www.tesla.com/ Tesla Inc.] I worked with Tesla designers on Superchargers, Level-II chargers, and commercial PV projects.
+- \[01-2022\] I completed my internship as Commercial Energy Design intern at [https://www.tesla.com/ Tesla Inc.] I worked with Tesla designers on Superchargers, Level-II chargers, and commercial PV projects.
 
-- \[07-26-2021\] Our paper titled “Sizing Energy Storage System for Energy Arbitrage in Extreme Fast Charging Station” has been selected as one of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Papers/] (top 3%) in 2021 IEEE Power and Energy Society General Meeting. The IEEE PES General Meeting is the flagship conference in Power & Energy fields. [https://ieeexplore.ieee.org/abstract/document/9638078 \[Link\]] [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3/publication/352546584_Sizing_Energy_Storage_System_for_Energy_Arbitrage_in_Extreme_Fast_Charging_Station/links/61c10e3bfd2cbd7200b62a14/Sizing-Energy-Storage-System-for-Energy-Arbitrage-in-Extreme-Fast-Charging-Station.pdf \[PDF\]]
+- \[07-2021\] Our paper titled “Sizing Energy Storage System for Energy Arbitrage in Extreme Fast Charging Station” has been selected as one of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Papers/] (top 3%) in 2021 IEEE Power and Energy Society General Meeting. The IEEE PES General Meeting is the flagship conference in Power & Energy fields. [https://ieeexplore.ieee.org/abstract/document/9638078 \[Link\]] [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3/publication/352546584_Sizing_Energy_Storage_System_for_Energy_Arbitrage_in_Extreme_Fast_Charging_Station/links/61c10e3bfd2cbd7200b62a14/Sizing-Energy-Storage-System-for-Energy-Arbitrage-in-Extreme-Fast-Charging-Station.pdf \[PDF\]]
 
-- \[07-26-2021\] I won the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the 2021 IEEE PES General Meeting Graduate Poster Contest, out of 58 contestants (Poster Title: [https://www.researchgate.net/publication/353582455_Poster_Sizing_Energy_Storage_System_for_Energy_Arbitrage_in_Extreme_Fast_Charging_Station "Sizing Energy Storage System for Energy Arbitrage in Extreme Fast Charging Station"]).  
+- \[07-2021\] I won the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the 2021 IEEE PES General Meeting Graduate Poster Contest, out of 58 contestants (Poster Title: [https://www.researchgate.net/publication/353582455_Poster_Sizing_Energy_Storage_System_for_Energy_Arbitrage_in_Extreme_Fast_Charging_Station "Sizing Energy Storage System for Energy Arbitrage in Extreme Fast Charging Station"]).  
