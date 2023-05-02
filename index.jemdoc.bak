@@ -1,14 +1,18 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: addcss{slideshow.css}
-== Waqas ur Rehman
+== {{<font color="DarkMagenta">Waqas ur Rehman</font>}}
 
-{{<img class="float" style="width: 100px; margin-left:-25px; margin-top: 5px;" src="images/111.jpeg"></img>}}
+{{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/round-pic.PNG"></img>}}
 [https://ece.mst.edu/ ~~Department of Electrical and Computer Engineering] \n
 [https://www.mst.edu/ ~~Missouri University of Science and Technology] \n
 \ ~~236 Emerson Electric Co. Hall \n
 \ ~~301 W 16th Street, Rolla, MO, 65409, USA \n
 \ ~~Email: w.rehman \[at\] mst \[dot\] edu \n
 \ ~~[https://scholar.google.com/citations?user=qYAJIcgAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3 ResearchGate] | [https://www.webofscience.com/wos/author/record/2317402 Web of Science]
+\ ~~ \n
+\ ~~ \n
+\ ~~ \n
+
 
 == About Me
 I am currently a Ph.D candidate at the Department of Electrical and Computer Engineering, Missouri University of Science and Technology, USA. 
@@ -19,7 +23,7 @@ of [https://news.mst.edu/2018/10/missouri-st-researchers-win-multimillion-dollar
 
 == News
 - \[05-2023\] Our paper titled “Multi-layered Energy Management Framework for Extreme Fast Charging Stations Considering Demand Charges, Battery Degradation, and Forecast Uncertainties” got accepted 
-in the /IEEE Transactions on Transportation Electrification/. [https://www.researchgate.net/publication/370441909_Multi-layered_Energy_Management_Framework_for_Extreme_Fast_Charging_Stations_Considering_Demand_Charges_Battery_Degradation_and_Forecast_Uncertainties#fullTextFileContent/ \[PDF\]] 
+in the /IEEE Transactions on Transportation Electrification/. [https://www.researchgate.net/publication/370441909_Multi-layered_Energy_Management_Framework_for_Extreme_Fast_Charging_Stations_Considering_Demand_Charges_Battery_Degradation_and_Forecast_Uncertainties.pdf \[PDF\]] 
 
 - \[04-2023\] I received 2022-2023 CEC Dean’s PhD Scholar Award. I am one of the seven recipients of this award for this year.
 
