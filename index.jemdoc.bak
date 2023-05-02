@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: addcss{slideshow.css}
-== {{<font color="DarkMagenta">Waqas ur Rehman</font>}}
+== {{<font color="DarkBlue">Waqas ur Rehman</font>}}
 
 {{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/round-pic.PNG"></img>}}
 [https://ece.mst.edu/ ~~Department of Electrical and Computer Engineering] \n
