@@ -2,7 +2,7 @@
 # jemdoc: addcss{slideshow.css}
 == {{<font color="DarkBlue">Waqas ur Rehman</font>}}
 
-{{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/round-pic.PNG"></img>}}
+{{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/round-pic.png"></img>}}
 [https://ece.mst.edu/ ~~Department of Electrical and Computer Engineering] \n
 [https://www.mst.edu/ ~~Missouri University of Science and Technology] \n
 \ ~~236 Emerson Electric Co. Hall \n
@@ -15,17 +15,19 @@
 
 
 == About Me
-I am currently a Ph.D candidate at the Department of Electrical and Computer Engineering, Missouri University of Science and Technology, USA. 
+Currently, I am a Ph.D candidate at the Department of Electrical and Computer Engineering, Missouri University of Science and Technology, USA. I also work as a Lead Engineer at [https://www.eaton.com/us/en-us/company/research-and-development.html Eaton Research Labs]. 
 I received my B.Sc. and M.Sc degrees in Electrical Engineering from [https://web.uettaxila.edu.pk/ University of Engineering and Technology (UET) Taxila, Pakistan] respectively in 2012 and 2017. I also received 
-a second M.Sc. degree in Nuclear Engineering from [http://www.pieas.edu.pk/ Pakistan Institute of Engineering and Applied Sciences (PIEAS)] in 2015. \n I'm a recipient of 2022-2023 CEC Dean’s PhD Scholar Award. I'm also a recipient of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Paper Award/] 
+a second M.Sc. degree in Nuclear Engineering from [http://www.pieas.edu.pk/ Pakistan Institute of Engineering and Applied Sciences (PIEAS)] in 2015. \n I'm a recipient of [[https://news.mst.edu/2023/05/sts-college-of-engineering-and-computing-honors-high-achieving-ph-d-students/ 2023 CEC Dean’s PhD Scholar Award] at Missouri S&T. I'm also a recipient of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Paper Award/] 
 and the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the graduate poster competition at the IEEE PES General Meeting, USA 2021. My current research interests are optimal siting, sizing, operation and control 
 of [https://news.mst.edu/2018/10/missouri-st-researchers-win-multimillion-dollar-grant-to-build-fast-charging-stations-for-electric-cars/ Extreme Fast Charging (XFC) Stations] and Superchargers for electric vehicles. 
 
 == News
-- \[05-2023\] Our paper titled “Multi-layered Energy Management Framework for Extreme Fast Charging Stations Considering Demand Charges, Battery Degradation, and Forecast Uncertainties” got accepted 
-in the /IEEE Transactions on Transportation Electrification/. [https://www.researchgate.net/publication/370441909_Multi-layered_Energy_Management_Framework_for_Extreme_Fast_Charging_Stations_Considering_Demand_Charges_Battery_Degradation_and_Forecast_Uncertainties.pdf \[PDF\]] 
+- \[06-2023\] I joined [https://www.eaton.com/us/en-us/company/research-and-development.html Eaton Research Labs], Golden Colorado, as a Lead Engineer. I will be leading projects in the rapidly growing areas of DERs and EVs.
 
-- \[04-2023\] I received 2022-2023 CEC Dean’s PhD Scholar Award. I am one of the seven recipients of this award for this year.
+- \[05-2023\] Our paper titled “Multi-layered Energy Management Framework for Extreme Fast Charging Stations Considering Demand Charges, Battery Degradation, and Forecast Uncertainties” got accepted 
+in the /IEEE Transactions on Transportation Electrification/. [https://ieeexplore.ieee.org/abstract/document/10122724/ \[Link\]]  [https://www.researchgate.net/publication/370441909_Multi-layered_Energy_Management_Framework_for_Extreme_Fast_Charging_Stations_Considering_Demand_Charges_Battery_Degradation_and_Forecast_Uncertainties.pdf \[PDF\]] 
+
+- \[04-2023\] I received the [https://news.mst.edu/2023/05/sts-college-of-engineering-and-computing-honors-high-achieving-ph-d-students/ /2023 College of Engineering and Computing (CEC) Dean’s PhD Scholar Award/] at Missouri S&T. I am one of the seven recipients of this award for this year.
 
 - \[01-2023\] My dissertation titled "Control and Optimization of Energy Storage System in Power Distribution Systems" has been selected for the final round of Grid Edge Technologies Dissertation Prize Challenge. As a finalist, I am invited to participate in the on-site 3-Minute Challenge which will take place in the IEEE PES Grid Edge Technologies Conference and Exposition on April 11 and 12, 2023 at San Diego Convention Center. 
 

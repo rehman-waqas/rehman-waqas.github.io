@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{biography.html}
 # jemdoc: addcss{slideshow.css}
-== Biography 
+== {{<font color="DarkBlue">Biography </font>}}
 
 = Education
-- [https://www.mst.edu/ Missouri University of Science & Technology, Rolla, MO USA] (Feb. 2019 - Spring 2023 (/Expected/)) \n
+- [https://www.mst.edu/ Missouri University of Science & Technology, Rolla, MO USA] (Feb. 2019 - Summer 2023) \n
 /Ph.D. in Electrical Engineering/, [https://ece.mst.edu/ Department of Electrical & Computer Engineering] \n
 Advisor: [https://sites.google.com/site/eeruibo/home?authuser=0 Dr. Rui Bo]
 
@@ -20,7 +20,10 @@ Advisor: [https://scholar.google.com/citations?user=TQj-GxsAAAAJ&hl=en Prof. Sik
 
 
 = Experience
-- [https://lucidmotors.com/ Lucid Motors Inc.] (Jan. 2023 - present) \n
+- [https://www.eaton.com/us/en-us/company/research-and-development.html Eaton Research Labs], Golden Colorado, USA (June 2023 - present) \n
+/Lead Engineer – DER and EV Integration/ 
+
+- [https://lucidmotors.com/ Lucid Motors Inc.], Newark CA, USA (Jan. 2023 - May 2023) \n
 /Sr Algorithms Engineer, ESS/ \n
 Manager: Ying Shi
 
