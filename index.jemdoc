@@ -2,12 +2,9 @@
 # jemdoc: addcss{slideshow.css}
 == {{<font color="DarkBlue">Waqas ur Rehman</font>}}
 
-{{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/round-pic.png"></img>}}
-[https://ece.mst.edu/ ~~Department of Electrical and Computer Engineering] \n
-[https://www.mst.edu/ ~~Missouri University of Science and Technology] \n
-\ ~~236 Emerson Electric Co. Hall \n
-\ ~~301 W 16th Street, Rolla, MO, 65409, USA \n
-\ ~~Email: w.rehman \[at\] mst \[dot\] edu \n
+{{<img class="float" style="width: 150px; margin-left:-5px; margin-top: 5px;" src="images/new_pic.png"></img>}}
+[https://www.eaton.com/us/en-us.html Eaton Research Labs, Eaton Corporation, USA] \n
+\ ~~Email: w.rehmanmst \[at\] gmail \[dot\] com \n
 \ ~~[https://scholar.google.com/citations?user=qYAJIcgAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Waqas-Ur-Rehman-3 ResearchGate] | [https://www.webofscience.com/wos/author/record/2317402 Web of Science]
 \ ~~ \n
 \ ~~ \n
@@ -15,10 +12,9 @@
 
 
 == About Me
-Currently, I am working as a Lead Engineer at [https://www.eaton.com/us/en-us.html Eaton Research Labs, USA] with focus on planning, sizing, and control of EV charging stations and DC distribution system. Before joining Eaton, I worked at [https://lucidmotors.com/ Lucid Motors] and [https://www.tesla.com/ Tesla] where I contributed to projects related to machine learning applications, home energy management, and design of solar, battery, and EV charging stations for commercial applications. I received Ph.D. in Electrical Engineering from Missouri University of Science and Technology, USA in 2023. I received my B.Sc. and M.Sc degrees in Electrical Engineering from [https://web.uettaxila.edu.pk/ University of Engineering and Technology (UET) Taxila, Pakistan] respectively in 2012 and 2017. I also received 
+Currently, I am working as a Lead Engineer at [https://www.eaton.com/us/en-us.html Eaton Research Labs, USA] with focus on planning, sizing, and control of EV charging stations and DC distribution system. Before joining Eaton, I worked at [https://lucidmotors.com/ Lucid Motors] and [https://www.tesla.com/ Tesla] where I contributed to projects related to machine learning applications, home energy management, and design of solar, battery, and EV charging stations for commercial applications. I received Ph.D. in Electrical Engineering from [https://www.mst.edu/ Missouri University of Science and Technology (Missouri S&T), USA] in 2023. I received my B.Sc. and M.Sc degrees in Electrical Engineering from [https://web.uettaxila.edu.pk/ University of Engineering and Technology (UET) Taxila, Pakistan] respectively in 2012 and 2017. I also received 
 a second M.Sc. degree in Nuclear Engineering from [http://www.pieas.edu.pk/ Pakistan Institute of Engineering and Applied Sciences (PIEAS)] in 2015. \n I'm a recipient of [[https://news.mst.edu/2023/05/sts-college-of-engineering-and-computing-honors-high-achieving-ph-d-students/ /2023 CEC Dean’s PhD Scholar Award/] at Missouri S&T. I'm also a recipient of the [https://econnection.mst.edu/2021/09/paper-on-fast-charging-stations-named-best-conference-paper/ /Best Conference Paper Award/] 
-and the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the graduate poster competition at the IEEE PES General Meeting, USA 2021. My current research interests are optimal siting, sizing, operation and control 
-of [https://news.mst.edu/2018/10/missouri-st-researchers-win-multimillion-dollar-grant-to-build-fast-charging-stations-for-electric-cars/ Extreme Fast Charging (XFC) Stations] and Superchargers for electric vehicles. 
+and the [https://econnection.mst.edu/2021/10/ph-d-student-earns-second-place-in-global-poster-contest/ /Second Prize/] in the graduate poster competition at the IEEE PES General Meeting, USA 2021.
 
 == News
 - \[06-2023\] I joined [https://www.eaton.com/us/en-us/company/research-and-development.html Eaton Research Labs], Golden Colorado, as a Lead Engineer. I will be leading projects in the rapidly growing areas of DERs and EVs.
